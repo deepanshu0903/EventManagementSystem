@@ -19,5 +19,5 @@ Features
 
 Clone the repository
 bash
-git clone https://github.com/yourusername/event-management-java.git
+git clone https://github.com/deepanshu0903/event-management-java.git
 cd event-management-java
